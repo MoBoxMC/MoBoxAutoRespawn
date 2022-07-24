@@ -1,0 +1,2 @@
+# MoBoxAutoRespawn
+MoBox系列插件之卡死亡加载世界修复
