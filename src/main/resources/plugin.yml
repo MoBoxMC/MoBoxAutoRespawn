@@ -1,0 +1,5 @@
+name: MoBoxAutoRespawn
+version: 1.0-SNAPSHOT
+main: org.mossmc.mosscg.MoBoxAutoRespawn.Main
+author: MossCG
+description: A plugin by MossCG for MoBoxMC.
